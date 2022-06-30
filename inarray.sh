@@ -1,5 +1,5 @@
 #!/bin/bash
-element=36
+element=59
 set="23 1762 289 36 59"
 for i in $set
 do
